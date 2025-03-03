@@ -65,4 +65,4 @@ Author:
 Isaiah Edem Essien
 
 License:
-This project is open-source and can be used for educational and research purposes with reference to the Author mentioned Aboved and the Instution African leadership University, Kigali Rwanda.
+This project is open-source and can be used for educational and research purposes with reference to the Author mentioned Above and the Instution African leadership University, Kigali Rwanda.
